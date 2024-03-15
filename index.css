@@ -1,0 +1,264 @@
+#main {
+  height: auto;
+  width: 98vw;
+  background-color: black;
+  border: 1px solid transparent;
+}
+
+ 
+ 
+.logo {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.navbar {
+  height: 50px;
+  width: 750px;
+  border: 1px solid transparent;
+  font-size: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-left: 1100px;
+  margin-top: -130px;
+   /* position: fixed; */
+ 
+}
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+.para1 {
+  margin-left: 20px;
+  color: whitesmoke;
+  font-size: 20px;
+  margin-top:-10px;
+}
+/* .pre1::first-letter{
+    } */
+.homepage {
+  height: 1200px;
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid transparent;
+  font-size: 40px;
+  margin-top: 80px;
+  color: rgb(183, 192, 192);
+  margin-left: 10px;
+}
+b {
+  color: rgba(233, 28, 20, 0.945);
+  /* text-decoration: underline; */
+}
+/* h1 {
+  color: rgba(233, 28, 20, 0.945);
+} */
+.img1 {
+  height: 800px;
+  width: 1300px;
+  position: relative;
+  left: 300px;
+  opacity: 0.5;
+  top: -30px;
+}
+.img1:hover {
+  opacity: 0.8;
+  
+}
+
+/* service page */
+#service_details {
+  height: 1200px;
+  width: 98vw;
+  border: 1px solid transparent;
+  background-color: black;
+ 
+}
+
+.head1 {
+  color: whitesmoke;
+}
+.para2 {
+  font-size: 25px;
+  color: rgb(197, 192, 192);
+  margin-left: 50px;
+}
+/* portfolio page */
+#portfolio {
+  height: 2000px;
+  width: 98vw;
+  border: 1px solid transparent;
+  /* gap: 200px; */
+  background-color: black;
+}
+.p_pre{
+  font-size: 25px;
+  margin-left: 20px;
+  
+}
+.img {
+  height: 500px;
+  width: 750px;
+  border: 1px solid transparent;
+  margin-top: 30px;
+  position: relative;
+  left: 100px;
+}
+.img:hover{
+  opacity: 0.6;
+}
+.img_1 {
+  height: 500px;
+  width: 750px;
+  border: 1px solid transparent;
+  margin-top: 30px;
+  position: relative;
+  top: -528px;
+  left: 900px;
+}
+.img_2 {
+  height: 500px;
+  width: 750px;
+  border: 1px solid transparent;
+  margin-top: 30px;
+  position: relative;
+  top: -450px;
+  left: 900px;
+  bottom: 100px;
+}
+.img_3 {
+  height: 500px;
+  width: 750px;
+  border: 1px solid transparent;
+  margin-top: 30px;
+  position: relative;
+  left: 100px;
+  top: -980px;
+  bottom: 100px;
+}
+.img_4 {
+  height: 500px;
+  width: 750px;
+  border: 1px solid transparent;
+  margin-top: 30px;
+  position: relative;
+  left: 100px;
+  top: -900px;
+}
+.img_5 {
+  height: 500px;
+  width: 750px;
+  border: 1px solid transparent;
+  margin-top: 30px;
+  position: relative;
+  top: -1425px;
+  left: 900px;
+}
+.contact {
+  height: auto;
+  border: 1px solid black;
+  
+}
+.pre_3 {
+  font-size: 20px;
+  color: rgb(183, 192, 192);
+}
+.d-block {
+  height: 800px;
+  width: 1650px;
+  border: 1px solid black;
+  margin-left: 120px;
+}
+/* .img{
+  height: 800px;
+  width: 1000px;
+  margin-left: 300px;
+
+} */
+/* contact page styles */
+#contactpage {
+  height: 98vh;
+  width: 98vw;
+  background-color: black;
+  border: 1px solid transparent;
+}
+.heading {
+  text-align: start;
+  font-size: 50px;
+  color: whitesmoke;
+  /* text-decoration: underline; */
+}
+.pre {
+  font-size: 45px;
+  font-family: system-ui, "Helvetica Neue", sans-serif;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+/* contact page */
+#conhead {
+  text-align: center;
+  color: red;
+  text-decoration: underline;
+  margin-left: 20px;
+}
+.contact {
+  height: 550px;
+  width: 460px;
+  border: 1px solid black;
+  margin-left: 1200px;
+  margin-top: -600px;
+  padding-left: 30px;
+  font-size: 20px;
+
+  box-shadow: 5px 5px 5px 5px rgb(83, 81, 81), 5px 7px 7px grey,
+    5px 5px 5px rgb(90, 85, 85);
+}
+button {
+  height: 50px;
+  width: 120px;
+  border: 1px dotted red;
+  background-color: black;
+  font-size: 18px;
+  text-align: center;
+  color: red;
+}
+.pre1 {
+  font-size: 26px;
+  color: rgb(211, 206, 206);
+}
+.anchor{
+  text-decoration: none;
+  font-size: larger;
+  color: rgb(211, 206, 206);
+}
+
+/* about page */
+#aboutpage {
+  height: 800px;
+  width: 98vw;
+  border: 1px solid black;
+  background-color: black;
+}
+/* footer page */
+.footer{
+  height: 200px;
+  background-color: black;
+  
+  
+  
+}
+.f_para{
+  font-size:35px;
+  /* text-align: center; */
+  /* font-size: 20px; */
+ 
+}
+.f_links{
+  display: block;
+  text-decoration: none;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 20px;
+
+}
